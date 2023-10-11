@@ -10,7 +10,7 @@
     -   `branch-title` kısmı, bu branch'in amacını özetler. Örnek olarak, "brand-listing" veya "fix-qr-transaction-issue" gibi açıklayıcı bir başlık olabilir.
     
 		    Örnek:
-            `` `feature/AETG-7062/unpermitted-location-actions` `` 
+            feature/AETG-7062/unpermitted-location-actions
 
 ### Commit Atma Kılavuzu
 
@@ -24,4 +24,4 @@
     -   `feat/fix/chore` kısmı, commit'in türünü belirtir. Örnek olarak, yeni bir özellik eklemek için "feat," bir hata düzeltmek için "fix," veya küçük ya da önemsiz string değiştirmeleri gibi işler için "chore" gibi.
     
 		    Örnek:
-            `` `<AETG-7062 feat: unpermitted location flow has been changed` `` 
+            <AETG-7062 feat: unpermitted location flow has been changed
