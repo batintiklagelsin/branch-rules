@@ -3,7 +3,8 @@
 
 1.  **Branch İsimlendirmesi**:
     
-    -   Branch isimleri belirli bir düzeni takip etmelidir. Önerilen düzen şu şekildedir:    
+    -   Branch isimleri belirli bir düzeni takip etmelidir. Önerilen düzen şu şekildedir:
+    -      
         `` feature/AETG-****/branch-title `` 
         
     -   `AETG-****` kısmı, çalıştığınız taskın kodudur..
